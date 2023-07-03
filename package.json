@@ -1,0 +1,12 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "curso de ECMASCRIPT",
+  "main": "00-let-const.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raudy Garcia",
+  "license": "ISC",
+  "type": "module"
+}
